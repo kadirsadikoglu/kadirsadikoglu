@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 ### Connect with me:
 
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/kadirsadikoglu//#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/kadirsadikoglu//#gh-dark-mode-only)
+[![website]([./img/linkedin-light.svg](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg))](https://www.linkedin.com/in/kadirsadikoglu)
+
 
 
 ### 💼 Languages and Tools
