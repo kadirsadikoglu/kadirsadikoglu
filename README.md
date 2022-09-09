@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm a media planner and sometimes a data analyst. I'm trying to my best.
+I'm trying to learn Python these days.
+I love sharing my knowledge with others. When I'm not coding, you can find me writing about games at forbuff.com
 <!--
 **kadirsadikoglu/kadirsadikoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
