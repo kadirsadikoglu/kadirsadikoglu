@@ -17,3 +17,9 @@ I love sharing my knowledge with others. When I'm not coding, you can find me wr
 <p align="left">
   <code><img title="Python" height="50" src="https://raw.githubusercontent.com/kadirsadikoglu/kadirsadikoglu/main/img/python-logo.png"></code>
 </p>
+
+---
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=kadirsadikoglu&show_icons=true&theme=bear" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=kadirsadikoglu&theme=dark&hide_border=true" width = 400>
+</p>
