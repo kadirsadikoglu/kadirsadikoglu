@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### 💼 Languages and Tools
+
 <p align="left">
   <code><img title="Python" height="50" src="https://raw.githubusercontent.com/kadirsadikoglu/kadirsadikoglu/main/img/python-logo.png"></code>
 </p>
