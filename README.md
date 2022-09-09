@@ -17,13 +17,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Connect with me:
 
-&nbsp;&nbsp;
-[![website]([./img/linkedin-light.svg](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg))](https://www.linkedin.com/in/kadirsadikoglu)
+🔗 &nbsp;**Connect with me**
 
-
-
+<a href="https://www.linkedin.com/in/kadirsadikoglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/kadirsadikoglu/kadirsadikoglu/b65eb3f36d31ede73fd45d964524de69c0e72aeb/img/linked-in-alt.svg" alt="Kadir Sadıkoğlu" height="30" width="40" /></a>
+<a href="https://www.instagram.com/sadikoglukadir53/" target="blank"><img align="center" src="https://raw.githubusercontent.com/kadirsadikoglu/kadirsadikoglu/57abca504a60544b2a3e7b99070fb42545b75d62/img/instagram.svg" alt="Kadir Sadıkoğlu" height="30" width="40" /></a>
 ### 💼 Languages and Tools
 
 <p align="left">
