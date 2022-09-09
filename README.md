@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔗 &nbsp;**Connect with me**
+### 🔗 &nbsp;**Connect with me**
 
 <a href="https://www.linkedin.com/in/kadirsadikoglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/kadirsadikoglu/kadirsadikoglu/b65eb3f36d31ede73fd45d964524de69c0e72aeb/img/linked-in-alt.svg" alt="Kadir Sadıkoğlu" height="30" width="40" /></a>
 <a href="https://www.instagram.com/sadikoglukadir53/" target="blank"><img align="center" src="https://raw.githubusercontent.com/kadirsadikoglu/kadirsadikoglu/57abca504a60544b2a3e7b99070fb42545b75d62/img/instagram.svg" alt="Kadir Sadıkoğlu" height="30" width="40" /></a>
