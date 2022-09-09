@@ -2,8 +2,7 @@
 
 I'm a media planner and sometimes a data analyst. I'm trying my best to learn Python these days.
 
-I love sharing my knowledge with others. When I'm not coding, you can find me writing about games at forbuff.com
-<!--
+I love sharing my knowledge with others. When I'm not coding, you can find me writing about games at <a href="https://forbuff.com">ForBuff</a>
 **kadirsadikoglu/kadirsadikoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
